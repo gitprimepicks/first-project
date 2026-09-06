@@ -1,0 +1,1 @@
+"it's the first project (when you tape a sentence all his word are reversed ex : how are you = you are how)
